@@ -2,8 +2,6 @@
 
 This project aims to predict IMDb movie ratings based on various features like Genre, Director, Actors, Year, Duration, and Votes. It involves data cleaning, preprocessing, feature engineering, model training (using RandomForestRegressor), and provides an interactive interface for predicting the rating of a new movie.
 
-**Project Date:** April 28, 2025 (as mentioned in the document)
-
 ## Table of Contents
 
 1.  [Project Overview](#project-overview)
