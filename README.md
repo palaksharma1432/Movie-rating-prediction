@@ -113,12 +113,3 @@ The `RandomForestRegressor` model was evaluated on the test set with the followi
 *   **R-squared (R²):** ~0.1979
 
 *Note: The R² score is relatively low, suggesting that the current features and model explain only about 19.8% of the variance in movie ratings in the test set. The model's predictive power might be limited.*
-
-## Future Improvements
-
-*   **Advanced Feature Engineering:** Explore interactions between features (e.g., Director-Genre), use actor combinations, or incorporate NLP on movie names/synopses if available.
-*   **Hyperparameter Tuning:** Use techniques like GridSearchCV or RandomizedSearchCV to find optimal parameters for the RandomForestRegressor or other models.
-*   **Try Different Models:** Experiment with other regression algorithms like Gradient Boosting (XGBoost, LightGBM), Support Vector Regression, or even simple Neural Networks.
-*   **Handle 'Unknown' Category:** Explore more sophisticated ways to handle missing categorical data instead of just using 'Unknown'.
-*   **More Data:** Acquire a larger or more feature-rich dataset if possible.
-*   **Cross-Validation:** Implement k-fold cross-validation during training for more robust evaluation.
