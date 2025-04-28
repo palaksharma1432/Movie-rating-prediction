@@ -113,3 +113,12 @@ The `RandomForestRegressor` model was evaluated on the test set with the followi
 *   **R-squared (R²):** ~0.1979
 
 *Note: The R² score is relatively low, suggesting that the current features and model explain only about 19.8% of the variance in movie ratings in the test set. The model's predictive power might be limited.*
+
+## 📧 Contact
+
+For questions or suggestions, please contact:  
+Palak Sharma - 22cse079@gweca.ac.in <br>
+Project Link: https://github.com/palaksharma1432/CaseNext <br>
+linkedin: https://www.linkedin.com/in/palak-sharma-4799672b1/ <br>
+```
+
