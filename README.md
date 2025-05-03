@@ -116,7 +116,7 @@ The `RandomForestRegressor` model was evaluated on the test set with the followi
 
 For questions or suggestions, please contact:  
 Palak Sharma - 22cse079@gweca.ac.in <br>
-Project Link: https://github.com/palaksharma1432/CaseNext <br>
+Project Link:  https://github.com/palaksharma1432/Movie-rating-prediction <br>
 linkedin: https://www.linkedin.com/in/palak-sharma-4799672b1/ <br>
 ```
 
